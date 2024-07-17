@@ -9,7 +9,7 @@ For more information or support, you can reach us at:
 **Telegram**: [@codecraftmens](https://t.me/codecraftmens)  
 **Email**: [codecraftmens@gmail.com](mailto:codecraftmens@gmail.com)
 
-![SocialMate](https://github.com/Adnan-pron/Xaxino-Casino-Games/commit/4f2392ebfe03730e69a08a79ec48ffbf009fba4f.jpg)
+![SocialMate](68747470733a2f2f7363726970742e76697365726c61622e636f6d2f736f6369616c6d6174652f65787472612f6465736372697074696f6e2e706e67.png)
 
 ### Why Choose SocialMate?
 One of the benefits of using our system is that it can significantly reduce the time and cost involved in developing a custom platform from scratch. Anyone can simply purchase our system and launch their own Account Selling Marketplace in a matter of days. More importantly, we ensure robust security measures such as encryption, password hashing, OTP, and Email & SMS notifications, to keep users and their activity secure from hacking and cyber-attacks. Security is our main priority, and our system is protected by strong layers of security.
